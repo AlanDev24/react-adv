@@ -1,7 +1,7 @@
 import "../styles/styles.css";
 import { useForm } from "../hooks/useForm";
 
-export const RegisetPage = () => {
+export const RegisterPage = () => {
   const {
     onChange,
     formData,
